@@ -12,6 +12,6 @@ It downloads the latest nbfc rpm package from the official repo and installs a w
 
 
 # Note: 
- - nbfc requires secure boot to be disabled at BIOS, if you need to reboot directly to BIOS you can run 
-'sudo systemctl reboot --firmware-setup' 
+ - nbfc requires secure boot to be disabled at BIOS, if you need to reboot directly to BIOS you can run
+`sudo systemctl reboot --firmware-setup`
 
